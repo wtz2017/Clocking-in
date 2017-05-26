@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clocking-in</string>
+    <string name="record">记录</string>
+    <string name="clocking_in">打卡记录器</string>
+    <string name="please_set_date_time">请设置日期时间</string>
+    <string name="default_date_time_format">"yyyy年MM月dd日 HH:mm"</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="is_confirm_record">确认要记录吗？</string>
+    <string name="is_confirm_delete_record">确认要删除此条记录吗？</string>
+</resources>
